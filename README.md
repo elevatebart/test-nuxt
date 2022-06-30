@@ -1,4 +1,10 @@
-# test-nuxt
+# Test Vue Styleguidist with nuxt
+
+## Run the styleguide server
+
+```bash
+$ yarn styleguide
+```
 
 ## Build Setup
 
